@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ef-firebase-app/static/css/main.3dc3aca4.chunk.css",
-    "main.js": "/ef-firebase-app/static/js/main.3d0bcced.chunk.js",
-    "main.js.map": "/ef-firebase-app/static/js/main.3d0bcced.chunk.js.map",
-    "runtime-main.js": "/ef-firebase-app/static/js/runtime-main.4b3cf2cd.js",
-    "runtime-main.js.map": "/ef-firebase-app/static/js/runtime-main.4b3cf2cd.js.map",
-    "static/js/2.d8c753a0.chunk.js": "/ef-firebase-app/static/js/2.d8c753a0.chunk.js",
-    "static/js/2.d8c753a0.chunk.js.map": "/ef-firebase-app/static/js/2.d8c753a0.chunk.js.map",
-    "index.html": "/ef-firebase-app/index.html",
-    "precache-manifest.1718aefa59d78ee11ef9f6ddd6d04a23.js": "/ef-firebase-app/precache-manifest.1718aefa59d78ee11ef9f6ddd6d04a23.js",
-    "service-worker.js": "/ef-firebase-app/service-worker.js",
-    "static/css/main.3dc3aca4.chunk.css.map": "/ef-firebase-app/static/css/main.3dc3aca4.chunk.css.map",
-    "static/js/2.d8c753a0.chunk.js.LICENSE.txt": "/ef-firebase-app/static/js/2.d8c753a0.chunk.js.LICENSE.txt"
+    "main.css": "/ef-firebase-chat/static/css/main.3dc3aca4.chunk.css",
+    "main.js": "/ef-firebase-chat/static/js/main.93c93549.chunk.js",
+    "main.js.map": "/ef-firebase-chat/static/js/main.93c93549.chunk.js.map",
+    "runtime-main.js": "/ef-firebase-chat/static/js/runtime-main.82320feb.js",
+    "runtime-main.js.map": "/ef-firebase-chat/static/js/runtime-main.82320feb.js.map",
+    "static/js/2.167adacd.chunk.js": "/ef-firebase-chat/static/js/2.167adacd.chunk.js",
+    "static/js/2.167adacd.chunk.js.map": "/ef-firebase-chat/static/js/2.167adacd.chunk.js.map",
+    "index.html": "/ef-firebase-chat/index.html",
+    "precache-manifest.1e5bf9d0c1a261a673b05819fc66262c.js": "/ef-firebase-chat/precache-manifest.1e5bf9d0c1a261a673b05819fc66262c.js",
+    "service-worker.js": "/ef-firebase-chat/service-worker.js",
+    "static/css/main.3dc3aca4.chunk.css.map": "/ef-firebase-chat/static/css/main.3dc3aca4.chunk.css.map",
+    "static/js/2.167adacd.chunk.js.LICENSE.txt": "/ef-firebase-chat/static/js/2.167adacd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b3cf2cd.js",
-    "static/js/2.d8c753a0.chunk.js",
+    "static/js/runtime-main.82320feb.js",
+    "static/js/2.167adacd.chunk.js",
     "static/css/main.3dc3aca4.chunk.css",
-    "static/js/main.3d0bcced.chunk.js"
+    "static/js/main.93c93549.chunk.js"
   ]
 }
